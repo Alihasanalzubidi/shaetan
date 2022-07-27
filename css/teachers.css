@@ -1,0 +1,16 @@
+/* This CSS file for teachers. html costom file */
+
+/* Start Mune CSS */
+body {
+    background-image: url(../img/bgg.jpg);
+    background-repeat: no-repeat;
+    color: black;
+    background-size: 120% 120%;
+}
+/* End Mune CSS */
+
+/* Start Teacher Card CSS */
+.staff .continer .staff-card {
+    height: 510px;
+}
+/* Start Teacher Card CSS */

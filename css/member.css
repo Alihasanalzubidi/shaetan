@@ -1,0 +1,38 @@
+/* Start Card Staff CSS */
+
+.staff .continer .staff-card {
+    height: 500px;
+}
+
+.staff .continer .staff-card .card-profile{
+    height: 400px;
+}
+/* Start Card Staff CSS */
+
+/* Start Meadi Query CSS */
+
+@media (min-width: 580px) and (max-width: 720px) {
+    .staff .continer .staff-card {
+        width: 320px;
+        height: 500px;
+    }
+    
+    .staff .continer .staff-card .card-profile{
+        width: 320px;
+        height: 400px;
+    }
+}
+
+@media (min-width: 721px) and (max-width: 1023px) {
+    .staff .continer .staff-card {
+        width: 320px;
+        height: 500px;
+    }
+    
+    .staff .continer .staff-card .card-profile{
+        width: 320px;
+        height: 400px;
+    }
+}
+
+/* End Meadi Query CSS */
